@@ -1,12 +1,13 @@
 # Failure Taxonomy · Ascend IQ
 
-Paste the markdown from the Module 2 Lab Guide (Activity 2) over this file, or upload the downloaded `failure-taxonomy.md` in its place, then commit.
-
 ## Top 3 Prioritized Failures
 
 | Rank | Failure | Trust Tag | Frequency | Severity |
 |---|---|---|---|---|
+| 1 | Wrong Pricing | #HALLUCINATION | 8/20, HIGH | P0 |
+| 2 | False Native Integration | #HALLUCINATION | 8/20, HIGH | P0 |
+| 3 | Unconfirmed Speaker Listed | #HALLUCINATION | 7/20, HIGH | P2 |
 
 ## #1 Risk · Business Impact
 
-_This failure matters because [technical error] results in [business impact]._
+This failure matters because generating false Enterprise pricing figures results in immediate loss of customer trust and stalled B2B revenue.
